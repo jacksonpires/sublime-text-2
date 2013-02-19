@@ -1,0 +1,23 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Monaco",
+	"font_size": 19.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

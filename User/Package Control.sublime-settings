@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BufferScroll",
+		"ChangeQuotes",
+		"ColorPick",
+		"DetectSyntax",
+		"Emmet",
+		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
+		"Expand Selection to Quotes",
+		"IndentGuides",
+		"Package Control",
+		"Prefixr",
+		"Sass",
+		"SideBarEnhancements",
+		"Toggle Symbol to String"
+	]
+}
