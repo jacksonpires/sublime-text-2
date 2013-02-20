@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"BufferScroll",
 		"ChangeQuotes",
@@ -11,10 +12,12 @@
 		"ERB Snippets",
 		"Expand Selection to Quotes",
 		"IndentGuides",
+		"Nettuts+ Fetch",
 		"Package Control",
 		"Prefixr",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
 		"Toggle Symbol to String"
 	]
 }
