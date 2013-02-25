@@ -3,6 +3,7 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"Browser Refresh",
 		"BufferScroll",
 		"ChangeQuotes",
 		"ColorPick",
@@ -12,12 +13,16 @@
 		"ERB Snippets",
 		"Expand Selection to Quotes",
 		"IndentGuides",
+		"LESS",
+		"LoremText",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"PlainTasks",
 		"Prefixr",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter Beta",
 		"Toggle Symbol to String"
 	]
 }
